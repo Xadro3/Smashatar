@@ -1,5 +1,7 @@
 This Project uses PyGame and Pynput to capture keyboard inputs and makes a 2D Character move accordingly. This is intended to be used as a stand-in for the Inferior V-Tuber Technology on todays market.
 
+![](gif.gif)
+
 How-To-Use:
 Add your Icons (Photoshop size: 1.2cm/68x68px) to the folder and change the loading lines to the correct filenames.
 Add your "Avatar" with both arms removed (336x476px) to the folder and do the same as above.
